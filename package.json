@@ -1,0 +1,24 @@
+{
+  "name": "oksport",
+  "version": "1.0.0",
+  "description": "Get soccer livescore and stream m3u8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["soccer", "socccer stream", "m3u8", "oksport myanmar"],
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/egohub/oksport"
+  },
+  "author": "egohub <ego@hackermail.com> (https://github.com/egohub)",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}
